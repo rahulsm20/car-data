@@ -1,9 +1,9 @@
 # Car Data Analysis Project
 [Tableau Dashboard](https://public.tableau.com/views/Quikrdataanalysis/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link7)
-### Objectives
+## Objectives
 The main objective of this project is to analyze the given dataset to understand patterns and trends in the data, to draw conclusions relating to how factors like region, age, gender and pre-existing conditions affect a customer's insurance charges and to develop a model that can predict the charges for a given individual based on their age, sex, region, smoker status, and number of children.
 
-### About the data
+## About the data
 The dataset used for this project consists of the following columns:
 
 - Name of car 
@@ -13,7 +13,27 @@ The dataset used for this project consists of the following columns:
 - Kms driven : Kilometres the car has been drived for
 - Fuel_type : Type of fuel the car uses
 
-### Conclusions
+## Table of Contents
+
+- [Overview](#overview)
+- [Methodology](#methodology)
+- [Conclusion](#conclusion)
+  
+## Methodology
+
+We analyzed the dataset by performing the following steps:
+
+1. Data exploration: We explored the dataset to understand its size, structure, and format. We also checked for missing values and outliers.
+
+2. Identify trends and patterns: We identified trends and patterns within the data, such as the distribution of prices and the correlation between the year of the car and its price.
+
+3. Segment the data: We segmented the data by car brand and fuel type to analyze the trends and patterns for each group.
+
+4. Visualize the data: We created various charts and graphs to visualize the relationships between different variables, such as scatterplots to show the correlation between the year and price and bar charts to compare the average price of different car brands.
+
+5. Draw conclusions: We drew conclusions from the insights and used them to inform decision-making.
+
+## Conclusions
 1. Car prices vary greatly by company.   
 Luxury brands tend to be much higher in cost than cars made by mass producers.  
 Most expensive car brand:  Jaguar | Average price: ₹2,495,000.00   
